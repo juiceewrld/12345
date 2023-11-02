@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 int main()
 {
-	std::cout << "Salamaleykym!";
+	std::cout << "RAZ DVA TRI!";
 	return 0;
 }
